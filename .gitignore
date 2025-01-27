@@ -41,3 +41,7 @@ BuildLog.htm
 *.aps
 /**/Debug
 /**/Release
+
+#Linux build
+*.tar.gz
+build/*
